@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yar Zar Min</h1>
 <h3 align="center">A Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yar-zar-min&label=Profile%20views&color=0e75b6&style=flat" alt="yar-zar-min" /> </p>
-
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Php, Javascript**
