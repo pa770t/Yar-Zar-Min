@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Php,Javascript**
 
-- ⚡ Fun fact **I'm funny😁**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/100010848461750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010848461750" height="30" width="40" /></a>
