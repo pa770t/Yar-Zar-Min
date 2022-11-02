@@ -12,6 +12,8 @@ I'm a web developer...
 
 📫 How to reach me...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pa770t&show_icons=true&theme=buefy)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
