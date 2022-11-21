@@ -8,7 +8,7 @@ I'm a web developer...
 
 ## Other Common Github Profile Sections
 
-🧠 I'm currently learning Vue.js & Django
+🧠 I'm currently learning <b>Vue.js</b> & <b>Django</b>
 
 📫 How to reach me...
 
