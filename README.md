@@ -2,9 +2,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yarzarmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yarzarmin" height="30" width="40" /></a>
-</p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yarzarmin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 # Hi, I'm Pa770t! 👋
 
